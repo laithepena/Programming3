@@ -8,5 +8,14 @@
 	<classpathentry kind="lib" path="C:/Users/Public/jackson-core-2.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Public/hamcrest-all-1.3.jar/hamcrest-all-1.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/testng.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/testng-remote.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.testng.eclipse_6.10.0.201612030230/lib/testng-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/vertica_4.1.13_jdk_5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

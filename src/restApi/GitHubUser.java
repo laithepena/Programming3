@@ -3,8 +3,28 @@ package restApi;
 public class GitHubUser {
 
     private String login;
+    
+    private int id;
+    
+    private String blog;
 
-    public GitHubUser() {
+    public String getBlog() {
+		return blog;
+	}
+
+	public void setBlog(String blog) {
+		this.blog = blog;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public GitHubUser() {
        // super();
     }
 
